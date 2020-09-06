@@ -1,2 +1,1 @@
-# prolog
-Programação Lógica em Prolog
+# Programação Lógica em Prolog
